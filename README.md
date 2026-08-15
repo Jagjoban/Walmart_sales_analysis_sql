@@ -6,7 +6,7 @@ End-to-end PostgreSQL data analysis analyzing 6,400+ Walmart sales records (2010
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue.svg)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 An end-to-end data analysis project investigating Walmart weekly store sales across 45 locations from 2010 to 2012 using PostgreSQL. This project answers 10 business questions covering store performance, holiday revenue lifts, macro-economic impacts (unemployment, CPI), weather influence, sales volatility, and revenue concentration.
 
